@@ -1,4 +1,4 @@
-# Pokemon Battles
+# Pokemon Battles (Still in progress, not yet completed)
 
 ## Description 
 Its a turn-based pokemon battle game where you can choose one of three total starter pokemons that each have different stats and moves. The game has classic features like a health bar, critical hit chances and a bot you will battle.
