@@ -14,6 +14,6 @@ Its a turn-based pokemon battle game where you can choose one of three total sta
 ## Coding-Features
 - Pokemons are created as class (object oriented programming)
 - if conditions
-- while conditions
+- while loops
 - for loops
 - custom functions
